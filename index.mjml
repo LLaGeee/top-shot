@@ -1,0 +1,51 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <mj-section padding="0px" background-color="#000000">
+      <mj-column>
+        
+        <mj-image width="200px" src="img/topshotlogo.png" href="https://nbatopshot.com/listings/pack/starter-pack-v2?utm_source=leanplum&utm_medium=email&utm_campaign=firstpurchase" target="_blank"></mj-image>
+
+        <mj-image padding="0" src="img/topshot.png" href="https://nbatopshot.com/listings/pack/starter-pack-v2?utm_source=leanplum&utm_medium=email&utm_campaign=firstpurchase" target="_blank"></mj-image>
+
+        <mj-text line-height="1.5" font-size="16px" color="#ffffff" font-family="arial" font-weight="bold">For a limited time, there are new NBA Top Shot Packs available exclusively for collectors like you, and they're only $6 (usually $9)!</mj-text>
+
+        <mj-text line-height="1.5" font-size="16px" color="#ffffff" font-family="arial" font-weight="bold">Each pack includes three limited edition and officially licensed NBA collectibles from the 2021-22 NBA season.</mj-text>
+
+        <mj-text line-height="1.5" font-size="16px" color="#ffffff" font-family="arial" font-weight="bold">Packs include superstars like Giannis, Steph, Jokic, Tatum, Ja, and Embiid, Moments from the Playoffs, members of the Rookie Class, and a small chance at an extremely limited edition Rare or Legendary Moment. </mj-text>
+
+        <mj-text font-size="16px" color="#ffffff" font-family="arial" font-weight="bold">Are you ready to <a href="https://nbatopshot.com/listings/pack/starter-pack-v2?utm_source=leanplum&utm_medium=email&utm_campaign=firstpurchase" target="_blank" style="color: #ffffff;">open a pack</a> and see what's inside?</mj-text>
+
+        <mj-spacer height="15px"/>
+
+        <mj-button font-weight="bold" width="90%" href="https://nbatopshot.com/listings/pack/starter-pack-v2?utm_source=leanplum&utm_medium=email&utm_campaign=firstpurchase" background-color="blue" font-size="16px" target="_blank">
+            BUY AND OPEN A PACK NOW
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000">
+        <mj-group width="50%">
+            <mj-column>
+                <mj-image width="33px" src="img/twitter.png" href="https://twitter.com/nbatopshot/"></mj-image>
+            
+            </mj-column>
+            <mj-column>
+                <mj-image width="33px" src="img/instagram.png" href="https://www.instagram.com/nbatopshot/"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="33px" src="img/facebook.png" href="https://www.facebook.com/NBATopShot/"></mj-image>
+            </mj-column>
+        </mj-group>
+        
+    </mj-section>
+    <mj-section background-color="#000000">
+        <mj-column>
+                <mj-text align="center" font-size="12px" color="#ffffff"><em>NBA Top Shot: Own the NBA and WNBA's most unforgettable Moments.</em></mj-text>
+
+                <mj-text align="center" font-size="12px" color="#ffffff">Dapper Labs Inc, 600-565 Great Northern Way, Vancouver, BC V5T 0H8, Canada</mj-text>
+
+                <mj-text align="center" font-size="8px"><a href="https://unsubscribe.prod.leanplum.com/?app=app_sv2ozhItgE7IN7V1fNO5rkZ2CoC5Era8LVq1yzT0D58&t1=iVrP0Yz41i06px-aDNe3sg&t2=JDlE8IOYlHh_M7GsjsuVlZ9u_n2XCKoCyGr0CBy7IPhDiIw48UFD0wbA1BBt5r5YSwJOBUxtyqYvB0edPn5Uofj34qI41gHaHHBmt8_AoNIOzOgfcgeCr3RXgaeMv0oXRM_MBMYNg9ge3ISRal36-zZViiNYN-KBGuzBwjsmb-ji8BjqI6Dpjvp4gDioIQ">Manage Preferences</a></mj-text>
+            </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
